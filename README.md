@@ -1,4 +1,4 @@
-# Times-Table-Mandelbrot-Set
+# Times Table Mandelbrot Set
 
 Using simple idea of times table to make beautiful shapes.
 
